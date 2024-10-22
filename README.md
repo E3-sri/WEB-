@@ -17,3 +17,48 @@
         
   </body>
 </html>
+
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.bg_image
+{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/ocean.jpg");
+    background-size:cover;
+    height:100vh;
+    width:100vw;
+}
+.tourism-card
+{
+    text-align: center;
+    font-family:Roboto;
+    padding:10px;
+    background-color:white;
+    border-top-left-radius: 10px;
+    border-top-right-radius:10px;
+    
+}
+.main-heading
+{
+    text-align: center;
+    font-family:Roboto;
+    padding:10px;
+}
+.para
+{
+    text-align:center;
+    font-family: Arial;
+}
+.button
+{
+    background-color: lightblue;
+    text-align: center;
+    height:50px;
+    width:150px;
+    margin-left: 0px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    margin-bottom:10px;
+}
+
+
